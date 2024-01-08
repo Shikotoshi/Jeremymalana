@@ -483,5 +483,9 @@ form .icons a:hover{
     .made h4{
       margin-bottom: -14rem;
     }
+    
+    .contact-section {
+        overflow: scroll;
+    }
 }
 /*--END OF MEDIA QUERIES SECTION--*/
